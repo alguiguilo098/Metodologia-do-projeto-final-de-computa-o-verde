@@ -1,0 +1,8 @@
+Teste Realzados no artigo "Estudo Empirico Data Center Heterogênios,Com
+diversos Estados de Suspensão"
+
+-CPU.C Aplicação feita no Lab 03 da disciplina de sistemas operacionais, cujo calcula um matriz aleatória de 0...19, calculando a média áritimética das linhas
+e a média geométrica das colunas.
+
+-IO.C Aplicação que gera uma matriz aleatória 0...19, no qual cada thread é responsável por imprimir uma linha da matriz.
+
